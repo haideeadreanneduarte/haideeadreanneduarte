@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Haidee Adreanne
 ========================================================================================================================================
 
-Software Engineer and Web Developer
+Software Engineer and Front-End Developer
 -----------------------------------
 
 I'm a dedicated Computer Science student at Angeles University Foundation, specializing in software development. My goal is to become an Aspiring Software Engineer and Web Developer, focusing on creating robust, scalable digital solutions. I am passionate about blending strong technical development skills with creative design principles to build user-centered applications and deliver engaging experiences.
