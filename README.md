@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Front-End Developer
 -----------------------------------
 
-I'm a dedicated Computer Science student at Angeles University Foundation, specializing in software development. My goal is to become an Aspiring Software Engineer and Web Developer, focusing on creating robust, scalable digital solutions. I am passionate about blending strong technical development skills with creative design principles to build user-centered applications and deliver engaging experiences.
+I'm a dedicated Computer Science student at Angeles University Foundation, specializing in software development. My goal is to become an Aspiring Software Engineer and Front-End Developer, focusing on creating robust, scalable digital solutions. I am passionate about blending strong technical development skills with creative design principles to build user-centered applications and deliver engaging experiences.
 
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [duarte.haideeadreanne@gmail.com](mailto:duarte.haideeadreanne@gmail.com)
